@@ -166,7 +166,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `display_name`, `user_name`, `password`, `profile_picture`) VALUES
-(1, 'Luyolo Mnganga', 'Luyolo.mnganga@ictchoice.co.za', '5f4dcc3b5aa765d61d8327deb882cf99', '1656551999avatar_.png ');
+(1, 'ADMININSTRATOR', 'admin', '5f4dcc3b5aa765d61d8327deb882cf99', '1656551999avatar_.png ');
 
 --
 -- Indexes for dumped tables
